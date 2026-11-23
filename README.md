@@ -70,7 +70,7 @@ Due to its size, the full dataset is not included directly in this GitHub reposi
 
 A video presentation is available demonstrating the project and its animal footprint classification application.
 
-**[Watch the Project Presentation](sha256:547d7590ed92eeaf0c00411abaf75ae0c6ab9dd384f310aa4bff9281ea9378cc)**
+**[Watch the Project Presentation](https://github.com/SarahADominguez/Github-Deep-Learning-Animal-Tracks/releases/tag/Demo)**
 
 ## Future Improvements
 
